@@ -49,3 +49,4 @@
 (package! ace-jump-mode)
 (package! whole-line-or-region)
 (package! highlight-symbol)
+(package! doom-theme)
